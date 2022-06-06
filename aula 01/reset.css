@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    list-style:none;
+    text-decoration: none;
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+}
+
+
+/*
+    # = quando você quer pegar pelo id
+    . = quando você quer pegar pelo class
+    element  = quando você quer pegar pelo elemento html
+*/
+			
